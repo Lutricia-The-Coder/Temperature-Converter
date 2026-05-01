@@ -1,7 +1,7 @@
 
 
 ### **GitHub Repository Description**
-A sleek, responsive Temperature Converter built with HTML, CSS, and JavaScript. Supports real-time conversion between Celsius, Fahrenheit with a mobile-first design.
+A sleek, responsive Temperature Converter built with HTML, CSS, and JavaScript. Supports real-time conversion between Celsius and Fahrenheit.
 
 ---
 
